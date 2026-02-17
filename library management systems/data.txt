@@ -1,0 +1,5 @@
+101,The Alchemist,paulo Coelho,500,2026-01-28,Borrowed,nikita
+102,wings of fire,A.P.J Abdul Kalam,500,2026-01-28,Available,
+103,Harry potter,J.K.Rowling,300,2026-01-28,Available,
+104,Think and ,Napoleon Hill,300.0,2026-01-28,Available,
+105,Atomic Habits,James Clear,600.0,2026-01-28,Available,
